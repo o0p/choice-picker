@@ -45,3 +45,7 @@ h3 {
     font-size: 0.875rem;
     display: inline-block;
 }
+
+.tag.highlight {
+    background-color: #273c75;
+}
