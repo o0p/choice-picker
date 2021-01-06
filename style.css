@@ -24,3 +24,9 @@ h3 {
 .container {
     width: 31.25rem;
 }
+
+#textarea {
+    border: none;
+    display: block;
+    width: 100%;
+}
