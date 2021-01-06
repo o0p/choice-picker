@@ -8,5 +8,6 @@ textarea.addEventListener('keyup', (e) => {
 });
 
 function createTags(input) {
-    console.log(input);
+    const tags = input.split(',');
+    console.log(tags)
 }
